@@ -1,0 +1,69 @@
+.main {
+  background-image: url(img/ndure-banner-dimensions.png);
+  width: 1320px;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main img {
+  position: fixed;
+ }
+ .list li{
+  list-style: none;
+  display: inline;
+  margin: 15px;
+ }
+ ol{
+  position: fixed;
+ }
+h3 {
+  color: darkslategrey;
+  margin-left: 4%;
+}
+h4 {
+  text-align: center;
+  color: darkslategrey;
+}
+h5 {
+  margin-left: 35%;
+  color: darkslategrey;
+}
+.bar ul li {
+  list-style: none;
+  margin: 15px;
+  color: darkslategrey;
+}
+.next {
+  margin-left: 30%;
+  margin-top: -13.5%;
+  color: darkslategrey;
+}
+.next ul li {
+  list-style: none;
+  margin: 10px;
+  margin-left: -4%;
+}
+.inform {
+  margin-left: 50%;
+  margin-top: -12.5%;
+  color: darkslategrey;
+}
+.inform ul li {
+  list-style: none;
+  margin: 10px;
+  margin-left: -6%;
+}
+.last {
+  margin-left: 80%;
+  margin-top: -17.5%;
+  color: darkslategrey;
+}
+.last ul li {
+  list-style: none;
+  margin: 10px;
+  margin-left: -13.5%;
+}
+.footer {
+  margin-top: 15%;
+  margin-bottom: 25%;
+}
